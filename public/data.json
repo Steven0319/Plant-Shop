@@ -1,0 +1,87 @@
+[
+    {
+        "id" : 1,
+        "name": "Plant 1",
+        "price": 100,
+        "img": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/low-resolution/ifa_upload/monstera_delicisoa_monster_mash_swiss_cheese_vine_tag.jpg",
+        "quantity": 1
+    },
+    {
+        "id" : 2,
+        "name": "Plant 2",
+        "price": 500,
+        "img": "https://images.pexels.com/photos/1477166/pexels-photo-1477166.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 3,
+        "name": "Plant 3",
+        "price": 200,
+        "img": "https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 4,
+        "name": "Plant 4",
+        "price": 300,
+        "img": "https://images.pexels.com/photos/808510/pexels-photo-808510.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 5,
+        "name": "Plant 5",
+        "price": 700,
+        "img": "https://images.pexels.com/photos/1055379/pexels-photo-1055379.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 6,
+        "name": "Plant 6",
+        "price": 800,
+        "img": "https://images.pexels.com/photos/712876/pexels-photo-712876.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 7,
+        "name": "Plant 7",
+        "price": 50,
+        "img": "https://images.pexels.com/photos/1477166/pexels-photo-1477166.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 8,
+        "name": "Plant 8",
+        "price": 1000,
+        "img": "https://images.pexels.com/photos/1382393/pexels-photo-1382393.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 9,
+        "name": "Plant 9",
+        "price": 105,
+        "img": "https://images.pexels.com/photos/631909/pexels-photo-631909.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 10,
+        "name": "Plant 10",
+        "price": 150,
+        "img": "https://images.pexels.com/photos/1090977/pexels-photo-1090977.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 1
+    },
+    {
+        "id" : 11,
+        "name": "Plant 11",
+        "price": 170,
+        "img": "https://www.home-designing.com/wp-content/uploads/2023/09/Monstera.jpg",
+        "quantity": 1
+    },
+    {
+        "id" : 12,
+        "name": "Plant 12",
+        "price": 159,
+        "img": "https://external-preview.redd.it/-f7tJcIGsab66TeUUbVRcFPeCeBaRN6MMioZG7FPGCQ.jpg?auto=webp&s=e381d1bcd3146e55c8ac66f0076c5ae917de7b20",
+        "quantity": 1
+    }
+]
+   

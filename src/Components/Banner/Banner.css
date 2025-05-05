@@ -1,0 +1,25 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url('https://media.istockphoto.com/id/2156897950/photo/large-luxury-modern-bright-interiors-living-room-mockup-illustration-3d-rendering-image.jpg?s=1024x1024&w=is&k=20&c=bc4tpkmj-HAeHagfIt9VjRENScza15ucUaFP9kN_KQ8=');
+}
+
+.banner-container{
+    text-align: center;
+    padding: 15%;
+}
+
+.hero-text{
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.hero-p{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    display: inline;
+}
