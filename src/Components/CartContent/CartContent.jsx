@@ -4,12 +4,15 @@ import Navbar from "../Navbar/Navbar"
 import CartElements from "./CartElements"
 import './CartContent.css'
 import CartTotal from "./CartTotal"
+import PayPalButton from "../Paypal/PaypalButton"
 //Importo todo lo necesario para mostrar el contenido del carrito
 //uso Context para acceder al carrito
 //traigo la barra de navegacion, los elementos del carrito, el total a pagar y los estilos
+
 const CartContent = () => {
-    const { cart } = useContext(Context)
-    //accedo al contexto para obtener el carrito actual
+  const { cart } = useContext(Context)
+  //accedo al contexto para obtener el carrito actual
+  const total=cart.reduce((acc, item) => acc + item.price * item.quantity, 0);
   return (
     <>
       <Navbar/>
@@ -17,6 +20,7 @@ const CartContent = () => {
         <>
         <CartElements/>
         <CartTotal/>
+        <PayPalButton total={total}/>
         </>
       ) : (
         <h2 className="cart-message-center">Your cart is empty</h2>
